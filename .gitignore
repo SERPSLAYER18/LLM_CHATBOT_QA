@@ -1,0 +1,9 @@
+/chroma_data
+/.ipynb_checkpoints
+dataset_website-content-crawler_2023-08-12_05-47-51-997.json
+ggml-model-*.bin
+.DS_Store
+.idea/
+*.ipynb
+bot.py
+*__pycache__/

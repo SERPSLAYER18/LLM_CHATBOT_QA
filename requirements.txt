@@ -1,0 +1,7 @@
+chromadb~=0.4.5
+langchain~=0.0.260
+spacy~=3.5.3
+nltk~=3.8.1
+telebot~=0.0.5
+llama_cpp
+
